@@ -1,0 +1,355 @@
+Nome ,Endereço  (Logradouro - Número - Bairro - Município - CEP) ,Rótulo,Licenciaturas ,Computação 
+Adamantina ,"Alameda dos Expedicionários, 864 - Centro - Adamantina - 17800-000 ","Alameda dos Expedicionários, 864 - Centro - Adamantina - 17800-000 ",10,10
+Aguaí ,"Av. Olinda Silveira Cruz Braga, 200 - Parque Interlagos - Aguaí - 13860-000 ","Av. Olinda Silveira Cruz Braga, 200 - Parque Interlagos - Aguaí - 13860-000 ",10,10
+Agudos ,"R. João Pessoa, 2 - Professor Simões - Agudos   17120-000 ","R. João Pessoa, 2 - Professor Simões - Agudos   17120-000 ",10,10
+Altinópolis ,"R. Alagoas, 248 - Vila Maria - Altinópolis   14350-000 ","R. Alagoas, 248 - Vila Maria - Altinópolis   14350-000 ",10,10
+Alumínio ,"Av. Senador José Ermírio de Moraes, 798 - Vila Industrial - Alumínio   18125-000 ","Av. Senador José Ermírio de Moraes, 798 - Vila Industrial - Alumínio   18125-000 ",10,10
+Alvinlandia,"R. Vereador Antonio Teruel, 670 - Centro - Alvinlandia - 17430- 000 ","R. Vereador Antonio Teruel, 670 - Centro - Alvinlandia - 17430- 000 ",10,10
+Americana ,"R. das Hortências, 1555 - Cidade Jardim - Americana - 13467- 190 ","R. das Hortências, 1555 - Cidade Jardim - Americana - 13467- 190 ",50,50
+Américo Brasiliense ,"Av. Nove de Julho, 192 - Centro - Américo Brasiliense - 14820- 000 ","Av. Nove de Julho, 192 - Centro - Américo Brasiliense - 14820- 000 ",10,10
+Amparo ,"R. Gustavo de Souza, 108 - Ribeirão Amparo - Amparo - 13904- 903 ","R. Gustavo de Souza, 108 - Ribeirão Amparo - Amparo - 13904- 903 ",25,25
+Andradina ,"R. Humberto de Campos, 229 - Centro - Andradina   16901-012 ","R. Humberto de Campos, 229 - Centro - Andradina   16901-012 ",20,20
+Anhembi ,"R. Prefeito Spedito Scalise , S/N - Morada do Sol - Anhembi - 18620-000 ","R. Prefeito Spedito Scalise , S/N - Morada do Sol - Anhembi - 18620-000 ",10,10
+Aparecida ,"Praça Pe. Victor Coelho de Almeida, 100 - Jardim São Paulo - Aparecida   12570-000 ","Praça Pe. Victor Coelho de Almeida, 100 - Jardim São Paulo - Aparecida   12570-000 ",10,10
+Apiaí ,"R. Amarildo Gorgonha da Silva, 112 - Centro - Apiaí   18320-000 ","R. Amarildo Gorgonha da Silva, 112 - Centro - Apiaí   18320-000 ",10,10
+Araçariguama ,"R. Amelia da Costa e Silva, 66 - Jardim Bela Vista - Aracariguama   18147-000 ","R. Amelia da Costa e Silva, 66 - Jardim Bela Vista - Aracariguama   18147-000 ",10,10
+Araçatuba ,"R. Conselheiro Crispiniano, 550 - Jardim Alvorada - Araçatuba - 16016-090 ","R. Conselheiro Crispiniano, 550 - Jardim Alvorada - Araçatuba - 16016-090 ",40,40
+Araçoiaba da Serra ,"R. Professor Toledo, 756 - Centro - Araçoiaba da Serra - 18190- 000 ","R. Professor Toledo, 756 - Centro - Araçoiaba da Serra - 18190- 000 ",10,10
+Arandu ,"Av. José Serezin, 800 - Jardim Maria Sodré - Arandu - 18710- 000 ","Av. José Serezin, 800 - Jardim Maria Sodré - Arandu - 18710- 000 ",10,10
+Araraquara ,"Av. Romulo Lupo, 775 - Jardim Universal - Araraquara - 14801- 700 ","Av. Romulo Lupo, 775 - Jardim Universal - Araraquara - 14801- 700 ",50,50
+Araras ,"Av. Nestlé, 58 - Vila Michelin - Araras   13601-005 ","Av. Nestlé, 58 - Vila Michelin - Araras   13601-005 ",35,35
+Arealva ,"Av. Prefeito Adelino Mendonça, S/N - Centro - Arealva - 17160- 000 ","Av. Prefeito Adelino Mendonça, S/N - Centro - Arealva - 17160- 000 ",10,10
+Areias ,"Av. Siqueira Campos, 501 - Centro - Areias   12820-000 ","Av. Siqueira Campos, 501 - Centro - Areias   12820-000 ",10,10
+Artur Nogueira ,"R. XV de Novembro, 1400 - Jardim Planalto - Artur Nogueira - 13160-000 ","R. XV de Novembro, 1400 - Jardim Planalto - Artur Nogueira - 13160-000 ",20,20
+Arujá ,"R. Mamede Barbosa, 105 - Centro - Arujá - 07400 - 820 ","R. Mamede Barbosa, 105 - Centro - Arujá - 07400 - 820 ",30,30
+Assis ,"Av. Getúlio Vargas, 1200 - Vila Nova Santana - Assis - 19807- 130 ","Av. Getúlio Vargas, 1200 - Vila Nova Santana - Assis - 19807- 130 ",35,35
+Atibaia ,"Av. Doutor Joviano Alvim, 112 - Alvinópolis - Atibaia   12942-613 ","Av. Doutor Joviano Alvim, 112 - Alvinópolis - Atibaia   12942-613 ",35,35
+Avaré ,"R. Doutor Antônio Ferreira Inocêncio, 394 - Vila Martins II - Avaré   18701-510 ","R. Doutor Antônio Ferreira Inocêncio, 394 - Vila Martins II - Avaré   18701-510 ",30,30
+Bady Bassitt ,"R. Fernando Correia Pires, 500 - Colina Sul II - Bady Bassitt - 15115-000 ","R. Fernando Correia Pires, 500 - Colina Sul II - Bady Bassitt - 15115-000 ",10,10
+Bananal ,"R. Leon Gilson, 33 - Centro - Bananal   12850-000 ","R. Leon Gilson, 33 - Centro - Bananal   12850-000 ",10,10
+Bariri ,"R. Regina Pizza Beltrame, 126 - Jardim Panorama - Bariri - 17250-000 ","R. Regina Pizza Beltrame, 126 - Jardim Panorama - Bariri - 17250-000 ",10,10
+Barra Bonita ,"R. Carlos Tozelli, 07 - COHAB Coronel José Victorino de França  - Barra Bonita   17340-000 ","R. Carlos Tozelli, 07 - COHAB Coronel José Victorino de França  - Barra Bonita   17340-000 ",10,10
+Barretos ,"R. 21 de Abril, 240 - Derby Club - Barretos   14787-240 ","R. 21 de Abril, 240 - Derby Club - Barretos   14787-240 ",35,35
+Barrinha,"R. Francisco Osaki, 90 - Conj. Albertina Fossalussa - Barrinha - 14860-000 ","R. Francisco Osaki, 90 - Conj. Albertina Fossalussa - Barrinha - 14860-000 ",10,10
+Barueri ,"Av. Andrômeda, 500 - Alphaville - Barueri   06473-000 ","Av. Andrômeda, 500 - Alphaville - Barueri   06473-000 ",50,50
+Bastos ,"R. Almirante Alexandrino, 622 - Centro - Bastos   17690-000 ","R. Almirante Alexandrino, 622 - Centro - Bastos   17690-000 ",10,10
+Bauru,"Av. Duque de Caxias, 16 - Higienópolis - Bauru   17011-020 ","Av. Duque de Caxias, 16 - Higienópolis - Bauru   17011-020 ",50,50
+Bernardino de Campos ,"Praça da Bandeira, 270 - Centro - Bernardino de Campos - 18960-000 ","Praça da Bandeira, 270 - Centro - Bernardino de Campos - 18960-000 ",10,10
+Bertioga ,"Av. Tomé de Souza, 11833 - Indaiá - Bertioga   11250-000 ","Av. Tomé de Souza, 11833 - Indaiá - Bertioga   11250-000 ",20,20
+Biritiba Mirim ,"R. Maria Gema Melo de Oliveira, 250 - Jardim Yoneda - Biritiba- Mirim   08940-000 ","R. Maria Gema Melo de Oliveira, 250 - Jardim Yoneda - Biritiba- Mirim   08940-000 ",10,10
+Boa Esperança do Sul ,"R. Manoel de Marins, 585 - Centro - Boa Esperança do Sul - 14930-000 ","R. Manoel de Marins, 585 - Centro - Boa Esperança do Sul - 14930-000 ",10,10
+Bocaina ,"R. 7 de Setembro, 178 - Centro - Bocaina   17240-000 ","R. 7 de Setembro, 178 - Centro - Bocaina   17240-000 ",10,10
+Boituva ,"R. São Marcos, 455 - Parque Nossa Senhora das Graças - Boituva   18550-000 ","R. São Marcos, 455 - Parque Nossa Senhora das Graças - Boituva   18550-000 ",20,20
+Bom Jesus dos Perdões ,"Av. Eliseu Correa Dias, 325 - Jardim Belo Horizonte - Bom Jesus dos Perdões   12955-000 ","Av. Eliseu Correa Dias, 325 - Jardim Belo Horizonte - Bom Jesus dos Perdões   12955-000 ",10,10
+Borborema ,"R. José Theodoro Puzzi, 515 - Vila Mariana - Borborema - 14955-000 ","R. José Theodoro Puzzi, 515 - Vila Mariana - Borborema - 14955-000 ",10,10
+Botucatu ,"Praça Dom Luiz Maria de Sant'Ana, 215 - Centro - Botucatu - 18600-311 ","Praça Dom Luiz Maria de Sant'Ana, 215 - Centro - Botucatu - 18600-311 ",35,35
+Bragança Paulista ,"R. das Indústrias, 130 - Uberaba - Bragança Paulista - 12926- 674 ","R. das Indústrias, 130 - Uberaba - Bragança Paulista - 12926- 674 ",40,40
+Braúna ," Av. Barão do Rio Branco, 465 - Braúna - SP 16290-000 ","Av. Barão do Rio Branco, 465 - Centro - Braúna   16290-000 ",10,10
+Brodowski ,"R. Carlos Chagas, 590 - Nosa Senhora das Graças - Brodowski - 14340-000 ","R. Carlos Chagas, 590 - Nosa Senhora das Graças - Brodowski - 14340-000 ",10,10
+Cabreúva ,"Via das Palmas, 101 - Pinhal - Cabreúva   13315-000 ","Via das Palmas, 101 - Pinhal - Cabreúva   13315-000 ",15,15
+Caçapava ,"R. André Santos de Oliveira Lima, 15 - Vila André Martins - Caçapava   12280-096 ","R. André Santos de Oliveira Lima, 15 - Vila André Martins - Caçapava   12280-096 ",35,35
+Cachoeira Paulista ,"R. Doutor Bernardino de Campos, 130 - Centro - Cachoeira Paulista   12630-000 ","R. Doutor Bernardino de Campos, 130 - Centro - Cachoeira Paulista   12630-000 ",10,10
+Caconde ,"Praça Coronel Gustavo Ribeiro, 92 - Caconde - Caconde - 13770-000 ","Praça Coronel Gustavo Ribeiro, 92 - Caconde - Caconde - 13770-000 ",10,10
+Cafelândia ,"Pátio da Estação - 01, S/N - Cafelândia - Cafelândia   16500-000 ","Pátio da Estação - 01, S/N - Cafelândia - Cafelândia   16500-000 ",10,10
+Caieiras ,"Praça Cláudio Manoel da Costa, S/N - Laranjeiras - Caieiras - 07739-075 ","Praça Cláudio Manoel da Costa, S/N - Laranjeiras - Caieiras - 07739-075 ",35,35
+Cajamar ,"R. Pedro Domingues, S/N - Centro - Cajamar   07750-830 ","R. Pedro Domingues, S/N - Centro - Cajamar   07750-830 ",25,25
+Cajati ,"R. Roma, 408 - Vila Antunes - Cajati   11950-000 ","R. Roma, 408 - Vila Antunes - Cajati   11950-000 ",10,10
+Cajobi ,"R. Olga Bernardes Zanterlini, 320 - Centro - Cajobi   15410-000 ","R. Olga Bernardes Zanterlini, 320 - Centro - Cajobi   15410-000 ",10,10
+Campinas ,"R. Doutor Emílio Ribas, 880 - Cambuí - Campinas   13025-141 ","R. Doutor Emílio Ribas, 880 - Cambuí - Campinas   13025-141 ",100,100
+Campo Limpo Paulista ,"R. Maria do Carmo, 11 - Vila Cardoso - Campo Limpo Paulista - 13230-450 ","R. Maria do Carmo, 11 - Vila Cardoso - Campo Limpo Paulista - 13230-450 ",30,30
+Campos do Jordão ,"R. Miguel Pereira, 235 - Abernéssia - Campos do Jordão - 12460-000 ","R. Miguel Pereira, 235 - Abernéssia - Campos do Jordão - 12460-000 ",15,15
+Capão Bonito ,"R. Bernardino de Campos, 477 - Centro - Capão Bonito - 18300- 040 ","R. Bernardino de Campos, 477 - Centro - Capão Bonito - 18300- 040 ",15,15
+Capela do Alto ,"Av. Professor Castorino de Almeida, 300 - Centro - Capela do Alto   18157-000 ","Av. Professor Castorino de Almeida, 300 - Centro - Capela do Alto   18157-000 ",10,10
+Capivari ,"R. Antônio Ribeiro de Godoy, S/N - Capivari - Capivari - 13360- 000 ","R. Antônio Ribeiro de Godoy, S/N - Capivari - Capivari - 13360- 000 ",20,20
+Caraguatatuba ,"R. João Marcelo, 302 - Estrela D´alva - Caraguatatuba - 11660- 600 ","R. João Marcelo, 302 - Estrela D´alva - Caraguatatuba - 11660- 600 ",35,35
+Carapicuíba ,"Av. Ernestina Vieira, 149 - Vila Dirce - Carapicuíba - 06382 - 260 ","Av. Ernestina Vieira, 149 - Vila Dirce - Carapicuíba - 06382 - 260 ",50,50
+Casa Branca ,"Av. Renato Pistelli, 810 - Centro - Casa Branca   13700-000 ","Av. Renato Pistelli, 810 - Centro - Casa Branca   13700-000 ",10,10
+Catanduva ,"Av. Daniel Dalto, S/N - Expansão 1 - Catanduva   15811-044 ","Av. Daniel Dalto, S/N - Expansão 1 - Catanduva   15811-044 ",35,35
+Cerqueira César ,"Rod. Donato Francisco Sassi, Km 5 - Macucão - Cerqueira César   18760-000 ","Rod. Donato Francisco Sassi, Km 5 - Macucão - Cerqueira César   18760-000 ",10,10
+Cerquilho ,"Av. Corradi II, 380 - Centro - Cerquilho   18520-000 ","Av. Corradi II, 380 - Centro - Cerquilho   18520-000 ",15,15
+Cesário Lange ,"R. Camargo Barros, 1210 - Centro - Cesário Lange   18285-000 ","R. Camargo Barros, 1210 - Centro - Cesário Lange   18285-000 ",10,10
+Charqueada ,"R. Querubim Ferreira de Almeida, 251 - Jardim Gelsomina - Charqueada   13515-000 ","R. Querubim Ferreira de Almeida, 251 - Jardim Gelsomina - Charqueada   13515-000 ",10,10
+Chavantes ,"R. Maestro Carlos Gomes, 399 - Centro - Chavantes - 18970- 000 ","R. Maestro Carlos Gomes, 399 - Centro - Chavantes - 18970- 000 ",10,10
+Colina ,"Praça Lamounier de Andrade, 101 - Centro - Colina   14770-000 ","Praça Lamounier de Andrade, 101 - Centro - Colina   14770-000 ",10,10
+Conchal ,"R. Álvaro Ribeiro, 287 - Centro - Conchal   13835-000 ","R. Álvaro Ribeiro, 287 - Centro - Conchal   13835-000 ",10,10
+Conchas ,"R. Bahia, 78 - Centro - Conchas   18570-000 ","R. Bahia, 78 - Centro - Conchas   18570-000 ",10,10
+Cordeirópolis ,"R. Galdino de Souza Barbosa, 400 - Jardim Cordeiro - Cordeirópolis   13490-000 ","R. Galdino de Souza Barbosa, 400 - Jardim Cordeiro - Cordeirópolis   13490-000 ",10,10
+Cosmópolis ,"Av. da Saudade, 528 - Vila José Kalil Aun - Cosmópolis - 13150- 000 ","Av. da Saudade, 528 - Vila José Kalil Aun - Cosmópolis - 13150- 000 ",25,25
+Cravinhos ,"R. Horácio Sabino Coimbra, 577 - Jardim Alvorada - Cravinhos - 14140-000 ","R. Horácio Sabino Coimbra, 577 - Jardim Alvorada - Cravinhos - 14140-000 ",10,10
+Cristais Paulista ,"Av. Antônio Prado, 3240 - Centro - Cristais Paulista   14460-000 ","Av. Antônio Prado, 3240 - Centro - Cristais Paulista   14460-000 ",10,10
+Cruzeiro ,"R. Doutor José Rodrigues Alves Sobrinho, 191 - Vila Sueli - Cruzeiro   12711-690 ","R. Doutor José Rodrigues Alves Sobrinho, 191 - Vila Sueli - Cruzeiro   12711-690 ",30,30
+Cubatão ,"Av. Doutor Fernando Costa, 1096 - Costa - Cubatão   11510-310 ","Av. Doutor Fernando Costa, 1096 - Costa - Cubatão   11510-310 ",35,35
+Cunha ,"Ladeira Vinte de Abril, S/N - Centro - Cunha   12530-000 ","Ladeira Vinte de Abril, S/N - Centro - Cunha   12530-000 ",10,10
+Diadema ,"R. Lauro Michels, 30 - Centro - Diadema   09910-970 ","R. Lauro Michels, 30 - Centro - Diadema   09910-970 ",50,50
+Dois Córregos ,"Av. Vasco da Gama, 164 - Jardim Arco - Dois Córregos - 17300- 000 ","Av. Vasco da Gama, 164 - Jardim Arco - Dois Córregos - 17300- 000 ",10,10
+Dourado ,"R. José Bustani, 600 - Jardim Paulista - Dourado   13590-000 ","R. José Bustani, 600 - Jardim Paulista - Dourado   13590-000 ",10,10
+Dracena ,"Av. José Bonifácio, 267 - Vila - Dracena   17900-000 ","Av. José Bonifácio, 267 - Vila - Dracena   17900-000 ",15,15
+Dumont,"R. João Negri, 412 - Jd Adelaide - Dumont   14120-000 ","R. João Negri, 412 - Jd Adelaide - Dumont   14120-000 ",10,10
+Eldorado ,"R. Padre Joaquim Gabriel, 161 - Centro - Eldorado   11960-000 ","R. Padre Joaquim Gabriel, 161 - Centro - Eldorado   11960-000 ",10,10
+Elias Fausto ,"Av. Osvaldo Maluf, 250 - Vila Anchieta - Elias Fausto - 13350- 000 ","Av. Osvaldo Maluf, 250 - Vila Anchieta - Elias Fausto - 13350- 000 ",10,10
+Embu das Artes ,"R. Alberto Giosa, 320 - Jardim - Embu das Artes   06803-280 ","R. Alberto Giosa, 320 - Jardim - Embu das Artes   06803-280 ",50,50
+Engenheiro Coelho ,"R. Alexandre Bonin, 403 - Jardim do Sol - Engenheiro Coelho - 13165-000 ","R. Alexandre Bonin, 403 - Jardim do Sol - Engenheiro Coelho - 13165-000 ",10,10
+Espírito Santo do Pinhal ,"Praça Irmão Estevão Von Herkhnuizen, S/N - Jardim das Rosas  - Espírito Santo do Pinhal   13990-000 ","Praça Irmão Estevão Von Herkhnuizen, S/N - Jardim das Rosas  - Espírito Santo do Pinhal   13990-000 ",15,15
+Estiva Gerbi ,"R. José Rodrigues dos Santos, 271 - São José II - Estiva Gerbi - 13857-000 ","R. José Rodrigues dos Santos, 271 - São José II - Estiva Gerbi - 13857-000 ",10,10
+Fartura ,"R. Santa Maria, 60 - Vila Nossa Senhora de Fátima - Fartura - 18870-000 ","R. Santa Maria, 60 - Vila Nossa Senhora de Fátima - Fartura - 18870-000 ",10,10
+Fernandópolis ,"Av. Litério Grecco, 300 - Jardim São Fernando - Fernandópolis - 15600-000 ","Av. Litério Grecco, 300 - Jardim São Fernando - Fernandópolis - 15600-000 ",25,25
+Flora Rica ,"R. Verador Raimundo Antônio de Araújo, 416 - Centro - Flora Rica   17870-000 ","R. Verador Raimundo Antônio de Araújo, 416 - Centro - Flora Rica   17870-000 ",10,10
+Flórida Paulista ,"Av. dos Expedicionários, 190 - Centro - Flórida Paulista - 17830- 000 ","Av. dos Expedicionários, 190 - Centro - Flórida Paulista - 17830- 000 ",10,10
+Franca ,"Av. Champagnat, 1808 - Centro - Franca   14400-320 ","Av. Champagnat, 1808 - Centro - Franca   14400-320 ",50,50
+Francisco Morato ,"R. Virgílio Martins de Oliveira, 824 - Vila Heloísa - Francisco Morato   07914-043 ","R. Virgílio Martins de Oliveira, 824 - Vila Heloísa - Francisco Morato   07914-043 ",40,40
+Franco da Rocha ,"R. Cinco de Maio, 97 - Vila Maggi - Franco da Rocha - 07850- 300 ","R. Cinco de Maio, 97 - Vila Maggi - Franco da Rocha - 07850- 300 ",40,40
+Garça ,"R. Padre Paulo de Toledo Leite, 411 - Ferrarópolis - Garça - 17400-000 ","R. Padre Paulo de Toledo Leite, 411 - Ferrarópolis - Garça - 17400-000 ",15,15
+Gavião Peixoto ,"Alameda Serez, 495 - Centro - Gavião Peixoto   14813-000 ","Alameda Serez, 495 - Centro - Gavião Peixoto   14813-000 ",10,10
+Guaíra ,"Av. 1A, 2000 - Conjunto Habitacional Prefeito José Pugliesi - Guaíra   14790-000 ","Av. 1A, 2000 - Conjunto Habitacional Prefeito José Pugliesi - Guaíra   14790-000 ",15,15
+Guapiaçu ,"R. Alfredo de Souza Barbeiro, 280 - Ribeirão Claro - Guapiaçu - 15110-000 ","R. Alfredo de Souza Barbeiro, 280 - Ribeirão Claro - Guapiaçu - 15110-000 ",10,10
+Guara,"R. João Carlos Figueiredo, 11 - Centro - Guara   14580-000 ","R. João Carlos Figueiredo, 11 - Centro - Guara   14580-000 ",10,10
+Guaraci ,"Praça Oscar Baptista de Carvalho, 657 - Centro - Guaraci - 15420-000 ","Praça Oscar Baptista de Carvalho, 657 - Centro - Guaraci - 15420-000 ",10,10
+Guararapes ,"R. José Dalla Pria, 177 - Jardim Continental - Guararapes - 16.700-000 ","R. José Dalla Pria, 177 - Jardim Continental - Guararapes - 16.700-000 ",10,10
+Guararema ,"R. Doutor Armindo, 567 - Nogueira - Guararema   08900-000 ","R. Doutor Armindo, 567 - Nogueira - Guararema   08900-000 ",10,10
+Guaratinguetá ,"Praça Condessa de Frontin, 76 - Centro - Guaratinguetá - 12500-180 ","Praça Condessa de Frontin, 76 - Centro - Guaratinguetá - 12500-180 ",35,35
+Guareí ,"R. Tiradentes, 100 - Centro - Guareí   18250-000 ","R. Tiradentes, 100 - Centro - Guareí   18250-000 ",10,10
+Guariba ,"R. Rui Barbosa, 1244 - Jardim Progresso - Guariba   14840-000 ","R. Rui Barbosa, 1244 - Jardim Progresso - Guariba   14840-000 ",10,10
+Guarujá ,"Av. Adriano Dias dos Santos, 611 - Jardim Boa Esperança - Guarujá   11470-220 ","Av. Adriano Dias dos Santos, 611 - Jardim Boa Esperança - Guarujá   11470-220 ",50,50
+Guarulhos ,"Av. Monteiro Lobato, 734 - Macedo - Guarulhos   07112-000 ","Av. Monteiro Lobato, 734 - Macedo - Guarulhos   07112-000 ",50,50
+Herculandia,"R. XV de Novembro, 331 - Centro - Herculandia   17650-000 ","R. XV de Novembro, 331 - Centro - Herculandia   17650-000 ",10,10
+Hortolândia ,"R. Capitão Lourival Mey, 750 - Jardim Santana - Hortolândia - 13184-470 ","R. Capitão Lourival Mey, 750 - Jardim Santana - Hortolândia - 13184-470 ",50,50
+Iacanga ,"R. Antonio Trentim, 263 - Jardim Paraíso - Iacanga   17180-000 ","R. Antonio Trentim, 263 - Jardim Paraíso - Iacanga   17180-000 ",10,10
+Ibirá ,"R. Ibirá, 896 - Centro - Ibirá   15860-000 ","R. Ibirá, 896 - Centro - Ibirá   15860-000 ",10,10
+Ibitinga ,"R. Capitão João Marques, 80 - Marques - Ibitinga   14940-000 ","R. Capitão João Marques, 80 - Marques - Ibitinga   14940-000 ",20,20
+Ibiúna ,"R. Raimundo Santiago, 30 2º piso - Centro - Ibiúna   18150-000 ","R. Raimundo Santiago, 30 2º piso - Centro - Ibiúna   18150-000 ",25,25
+Igaraçu do Tietê ,"R. Virgílio Tuschi, 200 - Cohab - Igaraçu do Tietê   17350-000 ","R. Virgílio Tuschi, 200 - Cohab - Igaraçu do Tietê   17350-000 ",10,10
+Igarapava ,"R. Azarias Arantes, S/N - Prédio PUAMI - Igarapava   14540-000 ","R. Azarias Arantes, S/N - Prédio PUAMI - Igarapava   14540-000 ",10,10
+Igaratá ,"R. José de Souza Palau, S/N - Jardim Rosa Helena - Igaratá - 12350-000 ","R. José de Souza Palau, S/N - Jardim Rosa Helena - Igaratá - 12350-000 ",10,10
+Iguape ,"Rod. Prefeito Casemiro Teixeira, 450 - Teixeira - Iguape - 11920- 000 ","Rod. Prefeito Casemiro Teixeira, 450 - Teixeira - Iguape - 11920- 000 ",10,10
+Ilha Comprida ,"R. Bermudas, 531 - Balneário Monte Carlo - Ilha Comprida - 11925-000 ","R. Bermudas, 531 - Balneário Monte Carlo - Ilha Comprida - 11925-000 ",10,10
+Ilha Solteira ,"R. Parati, 513 - Zona Sul - Ilha Solteira   15385-000 ","R. Parati, 513 - Zona Sul - Ilha Solteira   15385-000 ",10,10
+Ilhabela ,"Av. Professor Malaquias de Oliveira Freitas, 95 - Barra Velha - Ilhabela   11630-000 ","Av. Professor Malaquias de Oliveira Freitas, 95 - Barra Velha - Ilhabela   11630-000 ",10,10
+Indaiatuba ,"R. Dom Pedro I, 65 - Cidade Nova - Indaiatuba   13334-100 ","R. Dom Pedro I, 65 - Cidade Nova - Indaiatuba   13334-100 ",50,50
+Ipaussu ,"R. Domingos Fernandes, 240 - Centro - Ipaussú   18950-000 ","R. Domingos Fernandes, 240 - Centro - Ipaussú   18950-000 ",10,10
+Iperó ,"R. Luiz Rossi, 107 - Jardim Irene - Iperó   18560-000 ","R. Luiz Rossi, 107 - Jardim Irene - Iperó   18560-000 ",10,10
+Ipeúna ,"R. Araripe Custódio da Fonseca, 775 - Altos de Ipeúna - Ipeúna - 13537-000 ","R. Araripe Custódio da Fonseca, 775 - Altos de Ipeúna - Ipeúna - 13537-000 ",10,10
+Iporanga ,"R. Pedro Silva, S/N - Centro - Iporanga   18330-000 ","R. Pedro Silva, S/N - Centro - Iporanga   18330-000 ",10,10
+Itaberá ,"R. Josephina Silva Melo, 365 - Centro - Itaberá   18440-000 ","R. Josephina Silva Melo, 365 - Centro - Itaberá   18440-000 ",10,10
+Itaí ,"R. Abílio Raposo Ferraz, 405 - Vila Jardim Brasil - Itaí - 18730- 000 ","R. Abílio Raposo Ferraz, 405 - Vila Jardim Brasil - Itaí - 18730- 000 ",10,10
+Itajobi ,"R. Cincinato Braga, 240 - Centro - Itajobi   15840-000 ","R. Cincinato Braga, 240 - Centro - Itajobi   15840-000 ",10,10
+Itaju,"R. Antonio de Antonio, 70 - Centro - Itaju   17260-000 ","R. Antonio de Antonio, 70 - Centro - Itaju   17260-000 ",10,10
+Itanhaém ,"Av. Condessa de Vimieiros, 1131 - Centro - Itanhaém - 11740- 000 ","Av. Condessa de Vimieiros, 1131 - Centro - Itanhaém - 11740- 000 ",35,35
+Itaoca ,"R. Sete de Setembro, 11 - Centro - Itaoca   18360-000 ","R. Sete de Setembro, 11 - Centro - Itaoca   18360-000 ",10,10
+Itapecerica da Serra ,"R. São João, 47 - Centro - Itapecerica da Serra   06850-060 ","R. São João, 47 - Centro - Itapecerica da Serra   06850-060 ",40,40
+Itapetininga ,"Av. Dr Cyro de Albuquerque, 4750 - Taboãozinho - Itapetininga - 18213-615 ","Av. Dr Cyro de Albuquerque, 4750 - Taboãozinho - Itapetininga - 18213-615 ",40,40
+Itapeva ,"R. Lucas de Camargo, 419 - Camargo - Itapeva   18400-340 ","R. Lucas de Camargo, 419 - Camargo - Itapeva   18400-340 ",35,35
+Itapevi ,"R. Professor Irineu Chaluppe, 65 - Chaluppe - Itapevi - 06653- 180 ","R. Professor Irineu Chaluppe, 65 - Chaluppe - Itapevi - 06653- 180 ",50,50
+Itápolis ,"R. Rodrigues Alves, 1703 - Cecap - Itápolis   14900-000 ","R. Rodrigues Alves, 1703 - Cecap - Itápolis   14900-000 ",15,15
+Itaporanga,"R. João Scotti Siqueira, 535 - Vila Alvorada - Itaporanga - 18480- 000 ","R. João Scotti Siqueira, 535 - Vila Alvorada - Itaporanga - 18480- 000 ",10,10
+Itapuí ,"Av. Paes de Barros, 262 - Centro - Itapuí   17.230-000 ","Av. Paes de Barros, 262 - Centro - Itapuí   17.230-000 ",10,10
+Itaquaquecetub a ,"R. MMDC, 92 - Centro - Itaquaquecetuba   08570-007 ","R. MMDC, 92 - Centro - Itaquaquecetuba   08570-007 ",50,50
+Itarare,"R. 28 de Agosto, 405 - Centro - Itarare   18460-000 ","R. 28 de Agosto, 405 - Centro - Itarare   18460-000 ",15,15
+Itariri ,"R. Nabe Kian, 60 - Continental - Itariri   11760-000 ","R. Nabe Kian, 60 - Continental - Itariri   11760-000 ",10,10
+Itatiba,"Av. Urbano Bezana, S/N - Porto Seguro - Itatiba   13255-650 ","Av. Urbano Bezana, S/N - Porto Seguro - Itatiba   13255-650 ",35,35
+Itu ,"Av. Tiradentes, 1211 - Parque - Itu   13309-640 ","Av. Tiradentes, 1211 - Parque - Itu   13309-640 ",40,40
+Itupeva ,"R. Mairinque, 715 - Residencial Pacaembú I - Itupeva - 13295- 000 ","R. Mairinque, 715 - Residencial Pacaembú I - Itupeva - 13295- 000 ",20,20
+Ituverava ,"R. Xaraies, 50 - Jardim Marajoara - Ituverava   14500-000 ","R. Xaraies, 50 - Jardim Marajoara - Ituverava   14500-000 ",15,15
+Jaboticabal ,"R. General Osório, 215 - Centro - Jaboticabal   14870-050 ","R. General Osório, 215 - Centro - Jaboticabal   14870-050 ",25,25
+Jacareí ,"R. Faria Lima, 155 - Jardim Santa Maria - Jacareí   12328-070 ","R. Faria Lima, 155 - Jardim Santa Maria - Jacareí   12328-070 ",50,50
+Jacupiranga ,"Av. 23 de Junho, 649 - Vila Elias - Jacupiranga   11940-000 ","Av. 23 de Junho, 649 - Vila Elias - Jacupiranga   11940-000 ",10,10
+Jaguariúna ,"R. Bahia, 140 - Jardim São João - Jaguariúna   13911-454 ","R. Bahia, 140 - Jardim São João - Jaguariúna   13911-454 ",20,20
+Jambeiro ,"R. Coronel Batista, 267 - Centro - Jambeiro   12270-000 ","R. Coronel Batista, 267 - Centro - Jambeiro   12270-000 ",10,10
+Jandira ,"R. Francisco de Araujo Chaves, 120 - Araujo - Jandira - 06626- 020 ","R. Francisco de Araujo Chaves, 120 - Araujo - Jandira - 06626- 020 ",35,35
+Jaú ,"R. Quintino Bocaiuva, 532 - Centro - Jaú   17201-470 ","R. Quintino Bocaiuva, 532 - Centro - Jaú   17201-470 ",40,40
+José Bonifácio ,"Av. Nove de Julho, 170 - Centro - José Bonifácio   15200-000 ","Av. Nove de Julho, 170 - Centro - José Bonifácio   15200-000 ",10,10
+Juquiá ,"R. Rio Grande do Sul, 120 - Parque Nacional - Juquiá - 11800- 000 ","R. Rio Grande do Sul, 120 - Parque Nacional - Juquiá - 11800- 000 ",10,10
+Juquitiba ,"Av. Juscelino Kubitschek de Oliveira, 90 - Centro - Juquitiba - 06950-000 ","Av. Juscelino Kubitschek de Oliveira, 90 - Centro - Juquitiba - 06950-000 ",10,10
+Lagoinha ,"R. Agostinho Ribeiro dos Santos, 230 - Centro - Lagoinha - 12130-000 ","R. Agostinho Ribeiro dos Santos, 230 - Centro - Lagoinha - 12130-000 ",10,10
+Laranjal Paulista ,"R. General Osório, 50 - Centro - Laranjal Paulista   18500-000 ","R. General Osório, 50 - Centro - Laranjal Paulista   18500-000 ",10,10
+Leme ,"R. Emílio Violin, 194 - Bela Vista - Leme   13611-412 ","R. Emílio Violin, 194 - Bela Vista - Leme   13611-412 ",35,35
+Lençóis Paulista ,"Av. Lázaro Brigido Dutra, 2000 - Jardim Ibaté - Lençóis Paulista - 18682-335 ","Av. Lázaro Brigido Dutra, 2000 - Jardim Ibaté - Lençóis Paulista - 18682-335 ",25,25
+Limeira ,"R. Piauí, 472 - Vila Cláudia - Limeira   13480-406 ","R. Piauí, 472 - Vila Cláudia - Limeira   13480-406 ",50,50
+Lins ,"Estrada Mário Covas Junior (Lins Guaimbê), km 1 - Vila Guararapes - Lins   16403-025 ","Estrada Mário Covas Junior (Lins Guaimbê), km 1 - Vila Guararapes - Lins   16403-025 ",25,25
+Lorena ,"Av. São José, 150 - Vila Buck - Lorena   12600-560 ","Av. São José, 150 - Vila Buck - Lorena   12600-560 ",30,30
+Louveira ,"R. Pasquel Dinofre, 82 - Santo Antônio - Louveira   13290-000 ","R. Pasquel Dinofre, 82 - Santo Antônio - Louveira   13290-000 ",15,15
+Lucélia ,"R. Eduardo Rapacci, 475 - Centro - Lucélia   17780-000 ","R. Eduardo Rapacci, 475 - Centro - Lucélia   17780-000 ",10,10
+Luiz Antônio ,"Av. Independência, 369 - Centro - Luiz Antônio   14210-000 ","Av. Independência, 369 - Centro - Luiz Antônio   14210-000 ",10,10
+Macatuba,"R. Capitão Salvador Mariano de Pontes, 160 - Centro - Macatuba   17290-000 ","R. Capitão Salvador Mariano de Pontes, 160 - Centro - Macatuba   17290-000 ",10,10
+Mairinque ,"Av. Doutor Ricardo Gaspar Júnior, 172 - Centro - Mairinque - 18120-000 ","Av. Doutor Ricardo Gaspar Júnior, 172 - Centro - Mairinque - 18120-000 ",15,15
+Mairiporã ,"Av. Tabelião Passarela, 850 - Centro - Mairiporã   07600-000 ","Av. Tabelião Passarela, 850 - Centro - Mairiporã   07600-000 ",35,35
+Maracaí ,"Av. São Paulo, 885 - Centro - Maracaí   19840-000 ","Av. São Paulo, 885 - Centro - Maracaí   19840-000 ",10,10
+Marília ,"Av. Monte Carmelo, 800 - Fragata - Marília   17519-030 ","Av. Monte Carmelo, 800 - Fragata - Marília   17519-030 ",50,50
+Matão ,"Av. Daniel Antônio de Brito, 241 - Nova Matão - Matão - 15990- 560 ","Av. Daniel Antônio de Brito, 241 - Nova Matão - Matão - 15990- 560 ",30,30
+Mauá ,"Núcleo - Rua Cincinato Braga, R. São João, 876 A, Mauá - SP, 09340-480","R. São João, 183 - Núcleo Cincinato Braga - Mauá   09310-380 ",50,50
+Mineiros do Tietê ,"R. Municipal, 445 - Centro - Mineiros do Tietê   17320-000 ","R. Municipal, 445 - Centro - Mineiros do Tietê   17320-000 ",10,10
+Miracatu ,"Av. Dona Evarista de Castro Ferreira, 08 - Centro - Miracatu - 11850-000 ","Av. Dona Evarista de Castro Ferreira, 08 - Centro - Miracatu - 11850-000 ",10,10
+Mirante do Paranapanema ,"Av. Joaquim Juca de Góes, 882 - Centro - Mirante do Paranapanema - 19260 - 000 ","Av. Joaquim Juca de Góes, 882 - Centro - Mirante do Paranapanema - 19260 - 000 ",10,10
+Mococa ,"Av. Dr. Américo Pereira Lima, S/N - Pereira - Mococa - 13736- 260 ","Av. Dr. Américo Pereira Lima, S/N - Pereira - Mococa - 13736- 260 ",25,25
+Mogi das Cruzes ,"R. Antenor Leite da Cunha, 55 - Nova Mogilar - Mogi das Cruzes  - 08773-395 ","R. Antenor Leite da Cunha, 55 - Nova Mogilar - Mogi das Cruzes  - 08773-395 ",50,50
+Mogi Mirim ,"R. Ariovaldo Silveira Franco, 567 - Franco - Mogi Mirim - 13801- 005 ","R. Ariovaldo Silveira Franco, 567 - Franco - Mogi Mirim - 13801- 005 ",30,30
+Monte Alto ,"Av. Maria Deamo Tarraga, 221 - Real Paraíso - Monte Alto - 15910-000 ","Av. Maria Deamo Tarraga, 221 - Real Paraíso - Monte Alto - 15910-000 ",15,15
+Monte Azul Paulista,"Praça Macedo Soares, 13 - Centro - Monte Azul Paulista - 14730-000 ","Praça Macedo Soares, 13 - Centro - Monte Azul Paulista - 14730-000 ",10,10
+Monte Mor ,"R. Chequer Assis, 232 - Centro - Monte Mor - 13190000 ","R. Chequer Assis, 232 - Centro - Monte Mor - 13190000 ",20,20
+Morro Agudo ,"R. Barão do Rio Branco, 722 - Centro - Morro Agudo - 14640- 000 ","R. Barão do Rio Branco, 722 - Centro - Morro Agudo - 14640- 000 ",10,10
+Morungaba ,"R. Treze de Maio, 540 - Santo Antônio - Morungaba   13260-000 ","R. Treze de Maio, 540 - Santo Antônio - Morungaba   13260-000 ",10,10
+Motuca,"R. São Luiz, 121 - Centro - Motuca   14835-000 ","R. São Luiz, 121 - Centro - Motuca   14835-000 ",10,10
+Murutinga do Sul ,"R. Antônio Calestini, 316 - Centro - Murutinga do Sul - 16950- 000 ","R. Antônio Calestini, 316 - Centro - Murutinga do Sul - 16950- 000 ",10,10
+Narandiba ,"R. Maira Conceição Cassiano, 499 - São Francisco - Narandiba - 19220-000 ","R. Maira Conceição Cassiano, 499 - São Francisco - Narandiba - 19220-000 ",10,10
+Nova Granada ,"R. Julio Frasson, 512 - Estação - Nova Granada   15440-000 ","R. Julio Frasson, 512 - Estação - Nova Granada   15440-000 ",10,10
+Novo Horizonte ,"Alameda Roberto Dela Togna, 1233 - Togna - Novo Horizonte - 14960-000 ","Alameda Roberto Dela Togna, 1233 - Togna - Novo Horizonte - 14960-000 ",15,15
+Olímpia ,"R. Bernardino de Campos, 366 - Centro - Olímpia   15400-000 ","R. Bernardino de Campos, 366 - Centro - Olímpia   15400-000 ",20,20
+Orlandia,"Av. M, 980 - Jardim Siena - Orlandia   14620-000 ","Av. M, 980 - Jardim Siena - Orlandia   14620-000 ",15,15
+Osasco ,"R. Marechal Rondon, 263 - Centro - Osasco   06093-020 ","R. Marechal Rondon, 263 - Centro - Osasco   06093-020 ",100,100
+Ourinhos ,"Av. Vitalina Marcusso, 1400 - Campo - Ourinhos   19910-206 ","Av. Vitalina Marcusso, 1400 - Campo - Ourinhos   19910-206 ",35,35
+Ouroeste ,"Av. dos Bandeirantes, 2050 - Centro - Ouroeste   15685-000 ","Av. dos Bandeirantes, 2050 - Centro - Ouroeste   15685-000 ",10,10
+Pacaembu ,"R. Amador Rodrigues, 349 - Vila - Pacaembu   17860-000 ","R. Amador Rodrigues, 349 - Vila - Pacaembu   17860-000 ",10,10
+Paraguaçu Paulista ,"R. Prefeito Jaime Monteiro, 796 - Monteiro - Paraguaçu Paulista  - 19700-000 ","R. Prefeito Jaime Monteiro, 796 - Monteiro - Paraguaçu Paulista  - 19700-000 ",15,15
+Paraibuna ,"R. Geraldo Santana, 55 - Centro - Paraibuna   12260-000 ","R. Geraldo Santana, 55 - Centro - Paraibuna   12260-000 ",10,10
+Paranapanema ,"Av. das Posses, 279 - Distrito de Campos de Holambra - Paranapanema   18725-000 ","Av. das Posses, 279 - Distrito de Campos de Holambra - Paranapanema   18725-000 ",10,10
+Paulistania,"R. Iderme Tenca Junior, 39 - Vila Manoel - Paulistania - 17150- 000 ","R. Iderme Tenca Junior, 39 - Vila Manoel - Paulistania - 17150- 000 ",10,10
+Paulo de Faria,"Av. Joaquim Correa de Morais, 730 - Centro - Paulo de Faria - 15490-000 ","Av. Joaquim Correa de Morais, 730 - Centro - Paulo de Faria - 15490-000 ",10,10
+Pederneiras ,"Av. Paulista (complemento Sul), 377 - Centro - Pederneiras - 17280-000 ","Av. Paulista (complemento Sul), 377 - Centro - Pederneiras - 17280-000 ",15,15
+Pedreira ,"R. João Lúcio de Moraes, 270 - Jardim Triunfo - Pedreira - 13920-000 ","R. João Lúcio de Moraes, 270 - Jardim Triunfo - Pedreira - 13920-000 ",15,15
+Pedro de Toledo ,"R. Vasconcelos, 345 - Centro - Pedro de Toledo   11790-000 ","R. Vasconcelos, 345 - Centro - Pedro de Toledo   11790-000 ",10,10
+Penápolis ,"Av. Goiás, 448 - Vila América - Penápolis   16300-000 ","Av. Goiás, 448 - Vila América - Penápolis   16300-000 ",20,20
+Pereiras ,"R. Carlos Muccini, 123 - Centro - Pereiras   18580-000 ","R. Carlos Muccini, 123 - Centro - Pereiras   18580-000 ",10,10
+Peruíbe ,"Av. São João, 635 - Centro - Peruíbe   11750-000 ","Av. São João, 635 - Centro - Peruíbe   11750-000 ",25,25
+Piacatu ,"R. Antonio Gomes Jardim, 101 - Centro - Piacatu   16230-000 ","R. Antonio Gomes Jardim, 101 - Centro - Piacatu   16230-000 ",10,10
+Piquete ,"Praça Dom Pedro I, 130 - Vila Celeste - Piquete   12620-000 ","Praça Dom Pedro I, 130 - Vila Celeste - Piquete   12620-000 ",10,10
+Piracaia ,"Av. Cândido Rodrigues, 100 - Centro - Piracaia   12970-000 ","Av. Cândido Rodrigues, 100 - Centro - Piracaia   12970-000 ",10,10
+Piracicaba ,"R. Dona Idalina, 314 - Paulicéia - Piracicaba   13400-900 ","R. Dona Idalina, 314 - Paulicéia - Piracicaba   13400-900 ",50,50
+Pirajuí ,"Praça Doutor Pedro da Rocha Braga, 155 - Centro - Pirajuí - 16600-000 ","Praça Doutor Pedro da Rocha Braga, 155 - Centro - Pirajuí - 16600-000 ",10,10
+Pirassununga ,"Av. Brasil, 1053 - Vila Esperança - Pirassununga   13635-104 ","Av. Brasil, 1053 - Vila Esperança - Pirassununga   13635-104 ",25,25
+Pitangueiras ,"R. Reinaldo Consoli, 35 - Vila Caroni - Pitangueiras   14750-000 ","R. Reinaldo Consoli, 35 - Vila Caroni - Pitangueiras   14750-000 ",10,10
+Poá ,"Av. Alfredo Maurício Varela, 41 - Vila Varela - Poá   08558-230 ","Av. Alfredo Maurício Varela, 41 - Vila Varela - Poá   08558-230 ",35,35
+Pompéia ,"R. Epaminondas de Toledo Pizza, S/N - Centro - Pompeia - 17580-000 ","R. Epaminondas de Toledo Pizza, S/N - Centro - Pompeia - 17580-000 ",10,10
+Pontal ,"R. João Totti, 824 - Village Tropical - Pontal   14180-000 ","R. João Totti, 824 - Village Tropical - Pontal   14180-000 ",15,15
+Porangaba ,"R. Lazinho Nunes da Silva, 505 - Vista Alegre - Porangaba - 18260-000 ","R. Lazinho Nunes da Silva, 505 - Vista Alegre - Porangaba - 18260-000 ",10,10
+Porto Feliz ,"R. Conego Belotti, 200 - Porto Feliz - Porto Feliz   18540-000 ","R. Conego Belotti, 200 - Porto Feliz - Porto Feliz   18540-000 ",15,15
+Porto Ferreira ,"Av. Nicolau de Vergueiro Forjaz, 860 - Centro - Porto Ferreira - 13660-000 ","Av. Nicolau de Vergueiro Forjaz, 860 - Centro - Porto Ferreira - 13660-000 ",20,20
+Potim ,"R. Rio Grande do Sul, 43 - Jardim Alvorada - Potim   12525-000 ","R. Rio Grande do Sul, 43 - Jardim Alvorada - Potim   12525-000 ",10,10
+Pradopolis,"R. Presidente Vargas, 748 - Centro - Pradopolis   14850-000 ","R. Presidente Vargas, 748 - Centro - Pradopolis   14850-000 ",10,10
+Presidente Bernardes ,"R. Arthur Hideki Yanai, 86 - Vila Ocidente - Presidente Bernardes   19300-000 ","R. Arthur Hideki Yanai, 86 - Vila Ocidente - Presidente Bernardes   19300-000 ",10,10
+Presidente Epitácio ,"R. Antonio Venâncio Lopes, 8-81 - Jardim Aimara - Presidente Epitácio   19470-000 ","R. Antonio Venâncio Lopes, 8-81 - Jardim Aimara - Presidente Epitácio   19470-000 ",15,15
+Presidente Prudente ,"Rod. Comendador Alberto Bonfiglioli, 2700 - Bonfiglioli - Presidente Prudente   19063-390 ","Rod. Comendador Alberto Bonfiglioli, 2700 - Bonfiglioli - Presidente Prudente   19063-390 ",50,50
+Presidente Venceslau ,"R. Dom Pedro II, 787 - Centro - Presidente Venceslau - 19400- 000 ","R. Dom Pedro II, 787 - Centro - Presidente Venceslau - 19400- 000 ",10,10
+Quatá ,"Av. Rodolfo Sebastião Giorgi, 244 - Centro - Quatá   19780-000 ","Av. Rodolfo Sebastião Giorgi, 244 - Centro - Quatá   19780-000 ",10,10
+Queluz ,"Praça Padre Francisco Chagas Lima, 168 - Queluz - Queluz - 12800-000 ","Praça Padre Francisco Chagas Lima, 168 - Queluz - Queluz - 12800-000 ",10,10
+Rancharia,"R. Marcilio Dias, 440 - Centro - Rancharia   19600-000 ","R. Marcilio Dias, 440 - Centro - Rancharia   19600-000 ",10,10
+Redenção da Serra ,"Av. Nove de Julho, 60 - Centro - Redenção da Serra   12170-000 ","Av. Nove de Julho, 60 - Centro - Redenção da Serra   12170-000 ",10,10
+Reginopolis,"R. Padre Moises de Miranda, 645 - Centro - Reginopolis - 17190- 000 ","R. Padre Moises de Miranda, 645 - Centro - Reginopolis - 17190- 000 ",10,10
+Ribeirão Pires ,"R. Primeiro de Maio, 170 - Jardim Itacolomy - Ribeirão Pires - 09402-510 ","R. Primeiro de Maio, 170 - Jardim Itacolomy - Ribeirão Pires - 09402-510 ",35,35
+Ribeirao Preto,"R. Alvares Cabral, 629 - Centro - Ribeirao Preto   14015-050 ","R. Alvares Cabral, 629 - Centro - Ribeirao Preto   14015-050 ",100,100
+Rio Claro ,"R. 06 - Dr. Eloy Chaves, 3265 - Alto Santana - Rio Claro - 13504- 188 ","R. 06 - Dr. Eloy Chaves, 3265 - Alto Santana - Rio Claro - 13504- 188 ",50,50
+Rio das Pedras ,"R. Adhemar de Barros, 550 - Centro - Rio das Pedras - 13390- 000 ","R. Adhemar de Barros, 550 - Centro - Rio das Pedras - 13390- 000 ",10,10
+Riolândia ,"Av. Treze, 726 - Centro - Riolândia   15495-000 ","Av. Treze, 726 - Centro - Riolândia   15495-000 ",10,10
+Rosana ,"R. São Paulo, 399 - Distrito de Primavera - Rosana   19274-000 ","R. São Paulo, 399 - Distrito de Primavera - Rosana   19274-000 ",10,10
+Salesópolis ,"R. XV de Novembro, 1070 - Centro - Salesópolis   08970-000 ","R. XV de Novembro, 1070 - Centro - Salesópolis   08970-000 ",10,10
+Saltinho ,"Av. Sete de Setembro, 1734 - Centro - Saltinho   13440-000 ","Av. Sete de Setembro, 1734 - Centro - Saltinho   13440-000 ",10,10
+Salto ,"R. Francisco de Arruda Teixeira, 440 - Vila Flora - Salto - 13322- 000 ","R. Francisco de Arruda Teixeira, 440 - Vila Flora - Salto - 13322- 000 ",35,35
+Sandovalina,"R. João Alves dos Santos, 491 - Centro - Sandovalina - 19250- 000 ","R. João Alves dos Santos, 491 - Centro - Sandovalina - 19250- 000 ",10,10
+Santa Bárbara d'Oeste ,"R. General Couto Magalhães, 215 - 31 de Março - Santa Bárbara d'Oeste   13453-135 ","R. General Couto Magalhães, 215 - 31 de Março - Santa Bárbara d'Oeste   13453-135 ",40,40
+Santa Branca ,"R. Brigadeiro Aguiar, 112 - Centro - Santa Branca   12380-000 ","R. Brigadeiro Aguiar, 112 - Centro - Santa Branca   12380-000 ",10,10
+Santa Cruz da Esperanca,"R. Horacio Roberto do Nascimento, 98 - Centro - Santa Cruz da Esperanca   14250-000 ","R. Horacio Roberto do Nascimento, 98 - Centro - Santa Cruz da Esperanca   14250-000 ",10,10
+Santa Cruz das Palmeiras ,"Av. do Café, 720 - Centro - Santa Cruz das Palmeiras - 13650- 000 ","Av. do Café, 720 - Centro - Santa Cruz das Palmeiras - 13650- 000 ",10,10
+Santa Cruz do Rio Pardo ,"R. Rodolfo Casanova, 50 - Vila João Picin - Santa Cruz do Rio Pardo   18900-000 ","R. Rodolfo Casanova, 50 - Vila João Picin - Santa Cruz do Rio Pardo   18900-000 ",15,15
+Santa Gertrudes ,"R. Cordeirópolis, 175 - Jardim Paulista - Santa Gertrudes - 13510-000 ","R. Cordeirópolis, 175 - Jardim Paulista - Santa Gertrudes - 13510-000 ",10,10
+Santa Isabel ,"R. das Rosas, 780 - Jardim Novo Éden - Santa Isabel - 07500- 000 ","R. das Rosas, 780 - Jardim Novo Éden - Santa Isabel - 07500- 000 ",20,20
+Santana de Parnaíba ,"R. Verona, 217 - Jardim Isaura - Santana de Parnaiba - 06516- 070 ","R. Verona, 217 - Jardim Isaura - Santana de Parnaiba - 06516- 070 ",35,35
+Santo Anastacio,"R. Engenheiro Maylaski, 156 - Centro - Santo Anastacio - 19360- 000 ","R. Engenheiro Maylaski, 156 - Centro - Santo Anastacio - 19360- 000 ",10,10
+Santo André ,"Estrada do Cata Preta, 810 - Vila João Ramalho - Santo André - 09170-000 ","Estrada do Cata Preta, 810 - Vila João Ramalho - Santo André - 09170-000 ",50,50
+Santo Antônio da Alegria ,"R. Nove de Julho, 1100 - Centro - Santo Antonio da Alegria - 14390-000 ","R. Nove de Julho, 1100 - Centro - Santo Antonio da Alegria - 14390-000 ",10,10
+Santos ,"R. Sete de Setembro, 34 - Setembro - Santos   11013-350 ","R. Sete de Setembro, 34 - Setembro - Santos   11013-350 ",50,50
+São Bernardo do Campo ,"Av. Dom Jaime de Barros Câmara, 201 - Planalto - São Bernardo do Campo   09895-400 ","Av. Dom Jaime de Barros Câmara, 201 - Planalto - São Bernardo do Campo   09895-400 ",100,100
+São Caetano do Sul ,"Av. Goiás, 3400 - Santa Maria - São Caetano do Sul   09560-400 ","Av. Goiás, 3400 - Santa Maria - São Caetano do Sul   09560-400 ",40,40
+São Carlos ,"R. São Sebastião, 2828 - Aparque Santa Mônica - São Carlos - 13561-207 ","R. São Sebastião, 2828 - Aparque Santa Mônica - São Carlos - 13561-207 ",50,50
+São João da Boa Vista ,"R. Riachuelo, 444 - Centro - São João da Boa Vista   13870-234 ","R. Riachuelo, 444 - Centro - São João da Boa Vista   13870-234 ",30,30
+Sao Jose do Barreiro,"Av. Fortunato Lobão, S/N - Centro - Sao Jose do Barreiro - 12830-000 ","Av. Fortunato Lobão, S/N - Centro - Sao Jose do Barreiro - 12830-000 ",10,10
+São José do Rio Preto ,"R. General Glicério, 3947 - Vila Redentora - São José do Rio Preto   15015-400 ","R. General Glicério, 3947 - Vila Redentora - São José do Rio Preto   15015-400 ",50,50
+São José dos Campos - Parque  Tecnológico ,"Av. Dr. Altino Bondensan, 500 - Eugêncio de Melo - São José dos Campos   12247-016 ","Av. Dr. Altino Bondensan, 500 - Eugêncio de Melo - São José dos Campos   12247-016 ",50,50
+São José dos  Campos - Santana ,"Av. Olivo Gomes, 250 - Santana - São José dos Campos - 12211-115 ","Av. Olivo Gomes, 250 - Santana - São José dos Campos - 12211-115 ",50,50
+São Lourenço da Serra ,"R. João Alfredo Morães, 152-264 - Centro, São Lourenço da Serra - SP, 06890-000","R. João Alfredo Guimarães, 386 - Centro - São Lourenço da Serra   06890-000 ",10,10
+São Miguel Arcanjo ,"R. José de Moraes Terra, 280 - Jardim Nova Vila Rica - São Miguel Arcanjo   18230-000 ","R. José de Moraes Terra, 280 - Jardim Nova Vila Rica - São Miguel Arcanjo   18230-000 ",10,10
+São Paulo -  Alto Alegre,"R. Bento Guelfi, 1802 - Jd Laranjeira - São Paulo   08381-001 ","R. Bento Guelfi, 1802 - Jd Laranjeira - São Paulo   08381-001 ",35,35
+São Paulo -  Caminho do Mar,"R. Engº Armando de Arruda Pereira, 5241 - Jd Lourdes - São Paulo   04325-001 ","R. Engº Armando de Arruda Pereira, 5241 - Jd Lourdes - São Paulo   04325-001 ",35,35
+São Paulo -  Cantos do Amanhecer,"Av. Cantos do Amanhecer, s/nº - Jardim Eledy - São Paulo - 5856020 ","Av. Cantos do Amanhecer, s/nº - Jardim Eledy - São Paulo - 5856020 ",35,35
+São Paulo -  Feitiço da Vila,"R. Feitiço da Vila, 399 - Chácara Santa Maria - São Paulo - 05879-000 ","R. Feitiço da Vila, 399 - Chácara Santa Maria - São Paulo - 05879-000 ",35,35
+São Paulo -  Guarapiranga,"Estrada da Baronesa, 1120 - Jd Kagohara - São Paulo - 4941175 ","Estrada da Baronesa, 1120 - Jd Kagohara - São Paulo - 4941175 ",35,35
+São Paulo -  Inácio Monteiro,"R. Barão Barroso do Amazonas, s/n - Conjunto Inácio Monteiro - São Paulo   08472-721 ","R. Barão Barroso do Amazonas, s/n - Conjunto Inácio Monteiro - São Paulo   08472-721 ",35,35
+São Paulo -  Jaguaré,"Av. Keikiti Simomoto, 80 - Jaguaré - São Paulo   05347-010 ","Av. Keikiti Simomoto, 80 - Jaguaré - São Paulo   05347-010 ",35,35
+São Paulo -  Lajeado,"R. Manoel da Mota Coutinho, 293 - Lajeado - São Paulo - 8451420 ","R. Manoel da Mota Coutinho, 293 - Lajeado - São Paulo - 8451420 ",35,35
+São Paulo -  Paz,"R. Daniel Cerri, 1549 - Jd Paraná - São Paulo   02879-140 ","R. Daniel Cerri, 1549 - Jd Paraná - São Paulo   02879-140 ",35,35
+São Paulo -  Pq. Anhanguera,"R. Pedro José de Lima, 1020 - Jd Anhanguera - São Paulo - 5267174 ","R. Pedro José de Lima, 1020 - Jd Anhanguera - São Paulo - 5267174 ",35,35
+São Paulo -  Sapopemba,"R. Manuel Quirino de Mattos, s/n - Jd Sapopemba - São Paulo - 03969-000 ","R. Manuel Quirino de Mattos, s/n - Jd Sapopemba - São Paulo - 03969-000 ",35,35
+São Paulo -  Três Pontes,"R. Capachos, 400 - Jd Célia - São Paulo   08191-330 ","R. Capachos, 400 - Jd Célia - São Paulo   08191-330 ",35,35
+São Paulo -  Uirapuru,"R. Nazir Miguel, 849 - Jd João VI - São Paulo   05570-030 ","R. Nazir Miguel, 849 - Jd João VI - São Paulo   05570-030 ",35,35
+São Paulo -  Vila Rubi,"R. Domingos Tarroso, 101 - Vila Rubi - São Paulo   04823-090 ","R. Domingos Tarroso, 101 - Vila Rubi - São Paulo   04823-090 ",35,35
+São Paulo - Água Azul ,"Av. dos Metalúrgicos, 1262 - Cidade Tiradentes - São Paulo - 08471-000 ","Av. dos Metalúrgicos, 1262 - Cidade Tiradentes - São Paulo - 08471-000 ",35,35
+São Paulo - Alvarenga ,"Estrada do Alvarenga, 3752 - Balneário São Francisco - São Paulo   04474-340 ","Estrada do Alvarenga, 3752 - Balneário São Francisco - São Paulo   04474-340 ",35,35
+São Paulo - Aricanduva ,"R. Olga Fadel Abarca, S/N - Jardim Santa Terezinha - São Paulo  - 03572-020 ","R. Olga Fadel Abarca, S/N - Jardim Santa Terezinha - São Paulo  - 03572-020 ",35,35
+São Paulo - Azul da Cor do Mar ,"Av. Ernesto Souza Cruz, 2171 - Cidade Antonio Estevão - São Paulo   08225-380 ","Av. Ernesto Souza Cruz, 2171 - Cidade Antonio Estevão - São Paulo   08225-380 ",35,35
+São Paulo - Butantã ,"R. Engenheiro Heitor Antônio Eiras Garcia, 1870 - Jardim Esmeralda - São Paulo   05588-001 ","R. Engenheiro Heitor Antônio Eiras Garcia, 1870 - Jardim Esmeralda - São Paulo   05588-001 ",35,35
+São Paulo - Campo Limpo ,"Av. Carlos Lacerda, 678 - Campo Limpo - São Paulo - 05789- 000 ","Av. Carlos Lacerda, 678 - Campo Limpo - São Paulo - 05789- 000 ",35,35
+São Paulo - Capão Redondo ,"R. Daniel Gran, S/N - Jardim Modelo - São Paulo   05867-380 ","R. Daniel Gran, S/N - Jardim Modelo - São Paulo   05867-380 ",35,35
+São Paulo - Casa Blanca ,"R. João Damasceno, 85 - Vila das Belezas - São Paulo - 05841- 160 ","R. João Damasceno, 85 - Vila das Belezas - São Paulo - 05841- 160 ",35,35
+São Paulo - Cidade Dutra ,"Av. Interlagos, 7350 - Cidade Dutra - São Paulo   04777-000 ","Av. Interlagos, 7350 - Cidade Dutra - São Paulo   04777-000 ",35,35
+São Paulo - Formosa ,"R. Sargento Claudiner Evaristo Dias, 10 - Parque Santo Antonio  - São Paulo   03385-150 ","R. Sargento Claudiner Evaristo Dias, 10 - Parque Santo Antonio  - São Paulo   03385-150 ",35,35
+São Paulo - Freguesia do Ó ,"Av. Deputado Emílio Carlos, 3871 - Limão - São Paulo - 02721- 200 ","Av. Deputado Emílio Carlos, 3871 - Limão - São Paulo - 02721- 200 ",35,35
+São Paulo - Heliópolis ,"Estrada das Lágrimas, 2385 - São João Climaco - São Paulo - 04244-000 ","Estrada das Lágrimas, 2385 - São João Climaco - São Paulo - 04244-000 ",35,35
+São Paulo - Jaçanã ,"R. Francisca Espósito Tonetti, 105 - Jardim Guapira - São Paulo  - 02276-010 ","R. Francisca Espósito Tonetti, 105 - Jardim Guapira - São Paulo  - 02276-010 ",35,35
+São Paulo - Jambeiro ,"Av. José Pinheiro Borges, 60 - Guaianses - São Paulo - 08420- 092 ","Av. José Pinheiro Borges, 60 - Guaianses - São Paulo - 08420- 092 ",35,35
+São Paulo -  Jardim Paulistano ,"R. Aparecida do Taboado, S/N - Jardim Paulistano - São Paulo - 02814-000 ","R. Aparecida do Taboado, S/N - Jardim Paulistano - São Paulo - 02814-000 ",35,35
+São Paulo - Meninos ,"R. Barbinos, 111 - São João Clímaco - São Paulo   04240-110 ","R. Barbinos, 111 - São João Clímaco - São Paulo   04240-110 ",35,35
+São Paulo - Navegantes ,"R. Maria Moassab Barbour, S/N - Cantinho do Céu - São Paulo - 04849-503 ","R. Maria Moassab Barbour, S/N - Cantinho do Céu - São Paulo - 04849-503 ",35,35
+São Paulo - Paraisópolis ,"R. Dr. José Augusto de Souza e Silva, S/N - Jardim Parque Morumbi - São Paulo   05712-040 ","R. Dr. José Augusto de Souza e Silva, S/N - Jardim Parque Morumbi - São Paulo   05712-040 ",35,35
+São Paulo - Parelheiros ,"R. José Pedro de Borba, 20 - Jardim Novo Parelheiros - São Paulo   04890-090 ","R. José Pedro de Borba, 20 - Jardim Novo Parelheiros - São Paulo   04890-090 ",35,35
+São Paulo - Parque Bristol ,"R. Prof. Arthur Primavesi, S/N - Parque Bristol - São Paulo - 04177-070 ","R. Prof. Arthur Primavesi, S/N - Parque Bristol - São Paulo - 04177-070 ",35,35
+São Paulo - Parque São Carlos ,"R. Clarear, 643 - Jardim São Carlos - São Paulo   08062-590 ","R. Clarear, 643 - Jardim São Carlos - São Paulo   08062-590 ",35,35
+São Paulo - Parque Veredas ,"R. Daniel Muller, 347 - Itaim Paulista - São Paulo   08141-290 ","R. Daniel Muller, 347 - Itaim Paulista - São Paulo   08141-290 ",35,35
+São Paulo - Pera Marmelo ,"R. Pêra Marmelo, 226 - Jaraguá - São Paulo   05185-420 ","R. Pêra Marmelo, 226 - Jaraguá - São Paulo   05185-420 ",35,35
+São Paulo - Perus ,"R. Bernardo José de Lorena, S/N - Vila Malvina - São Paulo - 05203-200 ","R. Bernardo José de Lorena, S/N - Vila Malvina - São Paulo - 05203-200 ",35,35
+São Paulo - Quinta do Sol ,"Av. Luiz Imparato, 564 - Vila Cisper - São Paulo   03819-160 ","Av. Luiz Imparato, 564 - Vila Cisper - São Paulo   03819-160 ",35,35
+São Paulo - Rosa da China ,"R. Clara Petrela, 113 - Jardim São Roberto - São Paulo - 03978- 500 ","R. Clara Petrela, 113 - Jardim São Roberto - São Paulo - 03978- 500 ",35,35
+São Paulo - São Mateus ,"R. Curumatim, 201 - Parque Boa Esperança - São Paulo - 08341-240 ","R. Curumatim, 201 - Parque Boa Esperança - São Paulo - 08341-240 ",35,35
+São Paulo - São Rafael ,"R. Cinira Polônio, 100 - São Rafael - São Paulo   08395-320 ","R. Cinira Polônio, 100 - São Rafael - São Paulo   08395-320 ",35,35
+São Paulo - Tiquatira ,"Av. Condessa Elisabeth de Robiano, S/N - Penha - São Paulo - 03704-000 ","Av. Condessa Elisabeth de Robiano, S/N - Penha - São Paulo - 03704-000 ",35,35
+São Paulo - Três Lagos ,"R. Maria Moura da Conceição, S/N - Jardim Belcito - São Paulo - 04855-257 ","R. Maria Moura da Conceição, S/N - Jardim Belcito - São Paulo - 04855-257 ",35,35
+São Paulo - Vila Atlântica ,"R. Coronel José Venâncio Dias, 840 - Jardim Jaraguá - São Paulo   05160-030 ","R. Coronel José Venâncio Dias, 840 - Jardim Jaraguá - São Paulo   05160-030 ",35,35
+São Paulo - Vila Curuçá ,"Av. Marechal Tito, 3452 - Jardim Miragaia - São Paulo - 08160- 495 ","Av. Marechal Tito, 3452 - Jardim Miragaia - São Paulo - 08160- 495 ",35,35
+São Paulo - Vila do Sol ,"Av. dos Funcionarios Públicos, 369 - Jardim Vera Cruz - São Paulo   04962-000 ","Av. dos Funcionarios Públicos, 369 - Jardim Vera Cruz - São Paulo   04962-000 ",35,35
+São Pedro ,"R. Jorge de Toledo, 336 - Jardim Cássio Paschoal Padovani - São Pedro   13520-000 ","R. Jorge de Toledo, 336 - Jardim Cássio Paschoal Padovani - São Pedro   13520-000 ",10,10
+Sao Pedro do Turvo,"R. García Braga, 196 - Centro - Sao Pedro do Turvo   18940-000 ","R. García Braga, 196 - Centro - Sao Pedro do Turvo   18940-000 ",10,10
+São Sebastião ,"R. Rita Orseli, 161 - Vila Amélia - São Sebastião   11609-009 ","R. Rita Orseli, 161 - Vila Amélia - São Sebastião   11609-009 ",30,30
+São Simão ,"R. Bandeira Vilela, 414 - Centro - São Simão   14200-000 ","R. Bandeira Vilela, 414 - Centro - São Simão   14200-000 ",10,10
+São Vicente - Insular ,"Av. Antônio Emmerich, 504 - Vila Valença - São Vicente - 11370- 000 ","Av. Antônio Emmerich, 504 - Vila Valença - São Vicente - 11370- 000 ",30,30
+São Vicente - Quarentenário ,"Av. Quarentenário, 1001 - Jardim Quarentenário - São Vicente - 11347-520 ","Av. Quarentenário, 1001 - Jardim Quarentenário - São Vicente - 11347-520 ",30,30
+Sarapuí ,"R. Doutor Júlio Prestes, 780 - Vila Ana Maria - Sarapuí - 18225- 000 ","R. Doutor Júlio Prestes, 780 - Vila Ana Maria - Sarapuí - 18225- 000 ",10,10
+Serrana ,"R. Santa Cruz, 1801 - Jardim Cristina - Serrana   14150-000 ","R. Santa Cruz, 1801 - Jardim Cristina - Serrana   14150-000 ",15,15
+Sertãozinho ,"R. Oswaldo Bertuso, 126 - Conjunto Habitacional Antônio Nadaletto Mazzer - Sertãozinho   14177-082 ","R. Oswaldo Bertuso, 126 - Conjunto Habitacional Antônio Nadaletto Mazzer - Sertãozinho   14177-082 ",35,35
+Sete Barras ,"R. José Lopes, 35 - Centro - Sete Barras   11910-000 ","R. José Lopes, 35 - Centro - Sete Barras   11910-000 ",10,10
+Severínia ,"R. Dr. Salomão Galib Tannur, 827 - Jardim Primavera - Severínia  - 14735-000 ","R. Dr. Salomão Galib Tannur, 827 - Jardim Primavera - Severínia  - 14735-000 ",10,10
+Socorro ,"R. Alfredo de Oliveira Santos, 68 - Centro - Socorro   13960-000 ","R. Alfredo de Oliveira Santos, 68 - Centro - Socorro   13960-000 ",15,15
+Sorocaba - Parque  Tecnológico ,"Av. Itavuvu, 11777 - Distrito Industrial Zona Norte - Sorocaba - 18078-005 ","Av. Itavuvu, 11777 - Distrito Industrial Zona Norte - Sorocaba - 18078-005 ",50,50
+Sorocaba - Vila Barão ,"Av. General Osório, 1840 - Vila Barão - Sorocaba   18060-502 ","Av. General Osório, 1840 - Vila Barão - Sorocaba   18060-502 ",50,50
+Sud Mennucci,"Av. Pioneiros, 809 - Centro - Sud Mennucci   15360-000 ","Av. Pioneiros, 809 - Centro - Sud Mennucci   15360-000 ",10,10
+Sumaré ,"Av. Brasil, 1111 - Jardim Irmã Davina - Sumaré   13177-310 ","Av. Brasil, 1111 - Jardim Irmã Davina - Sumaré   13177-310 ",50,50
+Suzano ,"R. General Francisco Glicério, 1334 - Centro - Suzano - 08674- 002 ","R. General Francisco Glicério, 1334 - Centro - Suzano - 08674- 002 ",50,50
+Tambaú ,"Praça Padre Donizetti Tavares de Lima, 159 - Centro - Tambaú - 13710-000 ","Praça Padre Donizetti Tavares de Lima, 159 - Centro - Tambaú - 13710-000 ",10,10
+Tapiratiba ,"Praça Dona Esméria do Valle Figueiredo, 171 - Centro - Tapiratiba   13760-000 ","Praça Dona Esméria do Valle Figueiredo, 171 - Centro - Tapiratiba   13760-000 ",10,10
+Taquaral ,"R. Central, 119 - Centro - Taquaral   14765-000 ","R. Central, 119 - Centro - Taquaral   14765-000 ",10,10
+Taquaritinga ,"Av. Doutor Flávio Henrique Lemos, 585 - Portal Itamaracá - Taquaritinga   15900-000 ","Av. Doutor Flávio Henrique Lemos, 585 - Portal Itamaracá - Taquaritinga   15900-000 ",20,20
+Taquarituba ,"R. São Benedito, 484 - Centro - Taquarituba   18740-000 ","R. São Benedito, 484 - Centro - Taquarituba   18740-000 ",10,10
+Taquarivai,"R. Maria Joana Ferraz, 280 - Centro - Taquarivaí   18425-000 ","R. Maria Joana Ferraz, 280 - Centro - Taquarivaí   18425-000 ",10,10
+Tarabai,"Av. Prefeito Waldemar Calvo, 2157 - Centro - Tarabai - 19210- 000 ","Av. Prefeito Waldemar Calvo, 2157 - Centro - Tarabai - 19210- 000 ",10,10
+Tarumã ,"R. Lambaris, 405 - Vila Dourados - Tarumã   19820-000 ","R. Lambaris, 405 - Vila Dourados - Tarumã   19820-000 ",10,10
+Tatuí ,"Rod. Mário Batista Mori, 971 - Jardim Aeroporto - Tatuí - 18280- 000 ","Rod. Mário Batista Mori, 971 - Jardim Aeroporto - Tatuí - 18280- 000 ",35,35
+Teodoro Sampaio ,"R. José Miguel de Castro Andrade, 916 - Centro - Teodoro Sampaio   19280-000 ","R. José Miguel de Castro Andrade, 916 - Centro - Teodoro Sampaio   19280-000 ",10,10
+Tietê ,"R. Luiz Montanham, 1190 -  Terra Nova Tietê - Tietê   18530-000 ","R. Luiz Montanham, 1190 -  Terra Nova Tietê - Tietê   18530-000 ",15,15
+Torrinha ,"Rod. SP 304 Amauri Barroso de Souza, km 247 - Zona Rural - Torrinha   17360-000 ","Rod. SP 304 Amauri Barroso de Souza, km 247 - Zona Rural - Torrinha   17360-000 ",10,10
+Tremembé ,"R. Antônio Lourenço Xavier, S/N - Jardim Bom Jesus - Tremembé   12120-000 ","R. Antônio Lourenço Xavier, S/N - Jardim Bom Jesus - Tremembé   12120-000 ",15,15
+Tupã ,"R. Tapuias, S/N – Centro - Tupã   17600-900 ","R. Tapuias, S/N - Núcleo Fepasa - Tupã   17600-900 ",20,20
+Urupês ,"R. José Bonifácio, 804 - Centro - Urupês   15850-000 ","R. José Bonifácio, 804 - Centro - Urupês   15850-000 ",10,10
+Valinhos,"R. dos Geranios, S/N - Jd. Paraiso - Valinhos   13273-340 ","R. dos Geranios, S/N - Jd. Paraiso - Valinhos   13273-340 ",35,35
+Vargem Grande do Sul ,"R. São Braz, 200 - Santa - Vargem Grande do Sul   13880-000 ","R. São Braz, 200 - Santa - Vargem Grande do Sul   13880-000 ",15,15
+Vargem Grande Paulista ,"R. Mathias Maciel de Almeida, 60, Gleba 05 - Centro - Vargem Grande Paulista   06730-000 ","R. Mathias Maciel de Almeida, 60, Gleba 05 - Centro - Vargem Grande Paulista   06730-000 ",15,15
+Várzea Paulista ,"Av. Ipiranga, 151 - Centro - Várzea Paulista   13220-210 ","Av. Ipiranga, 151 - Centro - Várzea Paulista   13220-210 ",35,35
+Vera Cruz ,"R. Drª Cecília Rangel Janini, 03 - Centro - Vera Cruz - 17560- 000 ","R. Drª Cecília Rangel Janini, 03 - Centro - Vera Cruz - 17560- 000 ",10,10
+Vinhedo ,"Av. Independência, 5110 - Jardim Alba - Vinhedo   13289-038 ","Av. Independência, 5110 - Jardim Alba - Vinhedo   13289-038 ",25,25
+Viradouro ,"R. Durval Marçal Vieira, 671 - Jardim das Palmeiras - Viradouro - 14740-000 ","R. Durval Marçal Vieira, 671 - Jardim das Palmeiras - Viradouro - 14740-000 ",10,10
+Votorantim ,"Av. Vereador Newton Vieira Soares, 291 - Centro - Votorantim - 18110-013 ","Av. Vereador Newton Vieira Soares, 291 - Centro - Votorantim - 18110-013 ",35,35
+Votuporanga ,"R. Pernambuco, 1736 - Vila Muniz - Votuporanga   15501-095 ","R. Pernambuco, 1736 - Vila Muniz - Votuporanga   15501-095 ",35,35
